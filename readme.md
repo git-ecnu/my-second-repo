@@ -25,5 +25,4 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/git-ecnu/my-second-repo/blob/master/timg.gif)
 
